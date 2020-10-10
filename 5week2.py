@@ -7,5 +7,5 @@ for i in range(2, n):
 
 if not re:
     print("%d는 소수가 아닙니다" % n)
-else :
+else:
     print("%d는 소수 입니다." % n)
